@@ -1,7 +1,7 @@
 <h1 align='center'> Nice to meet you, I'm Babanz 🙇🏻‍♂️ </h1>
 
 <p align='center'>
-  If you're interested in working on mobile robotics, feel free to reach out.
+  If you're interested in working on projects together, feel free to reach out.
 </p>
 
 <p align='center'>
