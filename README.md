@@ -1,7 +1,7 @@
 <h1 align='center'> Nice to meet you, I'm Babanz 🙇🏻‍♂️ </h1>
 
 <p align='center'>
-  Feel free to reach out
+  If you're interested in working on mobile robotics, feel free to reach out.
 </p>
 
 <p align='center'>
@@ -16,9 +16,15 @@
 
 <h4>🔭  I’m currently working with ...</h4>
 
-<h5>UI Developer</h5>
 <p >
-  <img src="https://img.shields.io/badge/html5%20-%23e34f26.svg?&style=for-the-badge&logo=html5&logoColor=white" />&nbsp;&nbsp;<img src="https://img.shields.io/badge/CSS3-1572B6?&style=for-the-badge&logo=css3&logoColor=white" />&nbsp;&nbsp;<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />&nbsp;&nbsp;<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />&nbsp;&nbsp;<img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white">&nbsp;&nbsp;<img src="https://img.shields.io/badge/sass%20-%23cc6699.svg?&style=for-the-badge&logo=sass&logoColor=white" />&nbsp;&nbsp;<img src="https://img.shields.io/badge/Sketch-F7B500?style=for-the-badge&logo=sketch&logoColor=white" />&nbsp;&nbsp;<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/-ARDUINO-00979D?&style=for-the-badge&logo=arduino&logoColor=white" />&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/C-00599C?&style=for-the-badge&logo=c&logoColor=white" />&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/C++-%2300599C.svg?&style=for-the-badge&logo=c%2B%2B&logoColor=white" />&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/Python-3776AB?&style=for-the-badge&logo=python&logoColor=fff" />&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/MATLAB-e63333?style=for-the-badge&logo=mathworks&logoColor=black" />&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/-RISC--V-000000?style=for-the-badge&logo=riscv&logoColor=white" />&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/-SystemVerilog-4B0082?style=for-the-badge&logo=verilog&logoColor=white" />&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />&nbsp;&nbsp;
 </p>
 
 
