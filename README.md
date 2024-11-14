@@ -49,3 +49,7 @@
   <a href="https://open.spotify.com/playlist/6EcxO2IcPD9zSoWrtiGpDP?si=617a058935be4db6"><img src="https://img.shields.io/badge/spotify-%231ED760.svg?&style=for-the-badge&logo=spotify&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />&nbsp;&nbsp;
 </p>
+
+<h4> 📊 How I spent my week ...</h4>
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
