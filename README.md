@@ -50,6 +50,8 @@
   <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />&nbsp;&nbsp;
 </p>
 
+<hr>
+
 <h4> 📊 How I spent my week ...</h4>
 <!--START_SECTION:waka-->
 
