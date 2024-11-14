@@ -6,7 +6,6 @@
 
 <p align='center'>
   <a href="https://discord.com/users/babanzz"><img src="https://img.shields.io/badge/Discord-%235865F2.svg?&style=for-the-badge&logo=discord&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://steamcommunity.com/id/Babanzz/"><img src="https://img.shields.io/badge/Steam-%23000000.svg?&style=for-the-badge&logo=steam&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;
   <a href="https://www.linkedin.com/in/nikhil-babani/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="mailto:nikhiljbabani@gmail.com"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
 <!--   <a href="mailto:zceenba@ucl.ac.uk"><img src="https://img.shields.io/badge/UCL-000072?style=for-the-badge&logo=university&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp; -->
@@ -45,6 +44,7 @@
 
 <h4> 🎮 How I spend my spare time ...</h4>
 <p>
+  <a href="https://steamcommunity.com/id/Babanzz/"><img src="https://img.shields.io/badge/Steam-%23000000.svg?&style=for-the-badge&logo=steam&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;
   <a href="https://csstats.gg/player/76561198105448443"><img src="https://img.shields.io/badge/Counter_Strike-000000?style=for-the-badge&logo=counter-strike&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;
   <a href="https://open.spotify.com/playlist/6EcxO2IcPD9zSoWrtiGpDP?si=617a058935be4db6"><img src="https://img.shields.io/badge/spotify-%231ED760.svg?&style=for-the-badge&logo=spotify&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />&nbsp;&nbsp;
