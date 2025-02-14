@@ -69,4 +69,4 @@ Other        6 mins          ░░░░░░░░░░░░░░░░░
 <!--END_SECTION:waka-->
 
 <h4> :godmode: LeetCode ...</h4>
-![LeetCode Stats](https://leetcard.jacoblin.cool/njbabani)
+![LeetCode Stats](https://leetcard.jacoblin.cool/njbabani?t=1)
