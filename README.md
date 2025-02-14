@@ -68,5 +68,7 @@ Other        6 mins          ░░░░░░░░░░░░░░░░░
 
 <!--END_SECTION:waka-->
 
+<hr>
+
 <h4> :godmode: LeetCode ...</h4>
-![Test Image](https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/512px-React-icon.svg.png)
+![LeetCode Stats](https://leetcard.jacoblin.cool/njbabani)
