@@ -70,4 +70,7 @@ Markdown   0 secs          ░░░░░░░░░░░░░░░░░�
 <hr>
 
 <h4> :godmode: LeetCode ...</h4>
-![LeetCode Stats](https://leetcard.jacoblin.cool/njbabani)
+<img 
+  src="https://leetcard.jacoblin.cool/njbabani" 
+  alt="LeetCode Stats" 
+/>
