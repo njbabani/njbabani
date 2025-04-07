@@ -56,12 +56,14 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 29 March 2025 - To: 04 April 2025
+From: 30 March 2025 - To: 05 April 2025
 
-Total Time: 5 hrs 39 mins
+Total Time: 6 hrs 54 mins
 
-Python   3 hrs 38 mins   ████████████████░░░░░░░░░   64.17 %
-MATLAB   2 hrs 1 min     █████████░░░░░░░░░░░░░░░░   35.80 %
+MATLAB        4 hrs 15 mins   ███████████████▒░░░░░░░░░   61.71 %
+Python        1 hr 52 mins    ██████▓░░░░░░░░░░░░░░░░░░   27.23 %
+Objective-C   45 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   11.02 %
+Other         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 %
 ```
 
 <!--END_SECTION:waka-->
