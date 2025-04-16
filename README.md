@@ -56,16 +56,15 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 06 April 2025 - To: 13 April 2025
+From: 07 April 2025 - To: 14 April 2025
 
-Total Time: 15 hrs 58 mins
+Total Time: 10 hrs 16 mins
 
-Python        14 hrs 34 mins  ██████████████████████▓░░   91.20 %
-MATLAB        44 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.59 %
-Objective-C   37 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.93 %
-Markdown      2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.21 %
-Text          0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 %
-Other         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 %
+Python        8 hrs 52 mins   █████████████████████▓░░░   86.37 %
+MATLAB        44 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   07.14 %
+Objective-C   37 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.11 %
+Markdown      2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.33 %
+Other         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.04 %
 ```
 
 <!--END_SECTION:waka-->
