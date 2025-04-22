@@ -56,12 +56,12 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 12 April 2025 - To: 19 April 2025
+From: 13 April 2025 - To: 20 April 2025
 
-Total Time: 1 hr 35 mins
+Total Time: 1 hr 28 mins
 
-C++      1 hr 23 mins    █████████████████████▓░░░   87.18 %
-Python   12 mins         ███▒░░░░░░░░░░░░░░░░░░░░░   12.81 %
+C++      1 hr 23 mins    ███████████████████████▓░   94.47 %
+Python   4 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   05.51 %
 MATLAB   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 %
 ```
 
