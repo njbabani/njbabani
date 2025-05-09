@@ -56,13 +56,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 29 April 2025 - To: 06 May 2025
+From: 30 April 2025 - To: 07 May 2025
 
-Total Time: 12 hrs 41 mins
+Total Time: 11 hrs 6 mins
 
-Python       10 hrs 10 mins  ████████████████████░░░░░   80.15 %
-MATLAB       2 hrs 29 mins   █████░░░░░░░░░░░░░░░░░░░░   19.69 %
-Git Config   1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.16 %
+Python       9 hrs 27 mins   █████████████████████▒░░░   85.22 %
+MATLAB       1 hr 37 mins    ███▓░░░░░░░░░░░░░░░░░░░░░   14.60 %
+Git Config   1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.18 %
 Other        0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 %
 ```
 
