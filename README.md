@@ -52,7 +52,7 @@
 
 <hr>
 
-<h4> 📊 How I spent my week ...</h4>
+<h4> 📊 My hours ...</h4>
 <!--START_SECTION:waka-->
 
 ```txt
