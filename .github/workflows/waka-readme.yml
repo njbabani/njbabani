@@ -19,7 +19,7 @@ jobs:
           # REPOSITORY: njbabani/njbabani
           SHOW_TITLE: true
           SECTION_NAME: waka
-          TIME_RANGE: last_7_days
+          TIME_RANGE: all_time
           LANG_COUNT: 10
           SHOW_TIME: true
           SHOW_TOTAL: true
