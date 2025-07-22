@@ -56,19 +56,14 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 09 November 2024 - To: 20 July 2025
+From: 09 November 2024 - To: 21 July 2025
 
-Total Time: 613 hrs 3 mins
+Total Time: 623 hrs
 
-Python        561 hrs 19 mins ███████████████████████░░   91.51 %
-MATLAB        25 hrs 11 mins  █░░░░░░░░░░░░░░░░░░░░░░░░   04.11 %
-C++           5 hrs 11 mins   ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.85 %
-Markdown      4 hrs 22 mins   ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.71 %
-CSS           2 hrs 49 mins   ░░░░░░░░░░░░░░░░░░░░░░░░░   00.46 %
-HTML          2 hrs 25 mins   ░░░░░░░░░░░░░░░░░░░░░░░░░   00.40 %
-Objective-C   2 hrs 19 mins   ░░░░░░░░░░░░░░░░░░░░░░░░░   00.38 %
-Text          1 hr 33 mins    ░░░░░░░░░░░░░░░░░░░░░░░░░   00.25 %
-Git Config    46 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.13 %
+Python        571 hrs 16 mins ███████████████████████░░   91.64 %
+MATLAB        25 hrs 11 mins  █░░░░░░░░░░░░░░░░░░░░░░░░   04.04 %
+C++           5 hrs 11 mins   ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.83 %
+Markdown      4 hrs 22 mins   ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.70 %
 ```
 
 <!--END_SECTION:waka-->
