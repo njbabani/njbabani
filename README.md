@@ -56,13 +56,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 09 November 2024 - To: 11 December 2025
+From: 09 November 2024 - To: 12 December 2025
 
-Total Time: 806 hrs 9 mins
+Total Time: 816 hrs 59 mins
 
-Python        739 hrs 5 mins  ███████████████████████░░   91.58 %
-MATLAB        25 hrs 11 mins  ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.12 %
-TeX           14 hrs 25 mins  ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.79 %
+Python        739 hrs 57 mins ██████████████████████▓░░   90.48 %
+MATLAB        25 hrs 11 mins  ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.08 %
+TeX           24 hrs 20 mins  ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.98 %
 C++           5 hrs 11 mins   ░░░░░░░░░░░░░░░░░░░░░░░░░   00.64 %
 ```
 
