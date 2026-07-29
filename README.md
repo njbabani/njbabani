@@ -56,15 +56,15 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 09 November 2024 - To: 26 July 2026
+From: 09 November 2024 - To: 28 July 2026
 
-Total Time: 1,011 hrs 3 mins
+Total Time: 1,023 hrs 2 mins
 
-Python        859 hrs 9 mins        █████████████████████░░░░   83.47 %
-Markdown      38 hrs 19 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.72 %
-TeX           28 hrs 4 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.73 %
-MATLAB        25 hrs 11 mins        ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.45 %
-Other         18 hrs 18 mins        ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.78 %
+Python        866 hrs 41 mins       ████████████████████▓░░░░   83.12 %
+Markdown      39 hrs 53 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.83 %
+TeX           28 hrs 4 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.69 %
+MATLAB        25 hrs 11 mins        ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.42 %
+Other         19 hrs 38 mins        ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.88 %
 ```
 
 <!--END_SECTION:waka-->
