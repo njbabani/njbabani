@@ -56,13 +56,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 09 November 2024 - To: 31 August 2026
+From: 09 November 2024 - To: 01 September 2026
 
-Total Time: 1,080 hrs 43 mins
+Total Time: 1,081 hrs 10 mins
 
-Python        878 hrs 19 mins       ███████████████████▓░░░░░   78.04 %
-Markdown      54 hrs 9 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   04.81 %
-Other         44 hrs 42 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.97 %
+Python        878 hrs 19 mins       ███████████████████▒░░░░░   77.98 %
+Markdown      54 hrs 36 mins        █▒░░░░░░░░░░░░░░░░░░░░░░░   04.85 %
+Other         45 hrs 10 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.01 %
 ```
 
 <!--END_SECTION:waka-->
